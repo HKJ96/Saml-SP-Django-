@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="128ca0d1-2416-41c8-87eb-95c25b00714a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/metadata/metadata.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="58" lean-forward="true" selection-start-column="58" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="1184" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectId" id="1Y0f6CpRhJSTFgRvAWjkZryL7J7" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Smal2 Sp - Authanvil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Smal2 Sp - Authanvil" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Smal2 Sp - Authanvil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Smal2 Sp - Authanvil" type="462c0819:PsiDirectoryNode" />
+              <item name="metadata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Smal2 Sp - Authanvil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Smal2 Sp - Authanvil" type="462c0819:PsiDirectoryNode" />
+              <item name="sp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="django-saml2-sp-master" type="Python.DjangoServer" factoryName="Django server">
+      <module name="django-saml2-sp-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="sp.settings" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="9000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="128ca0d1-2416-41c8-87eb-95c25b00714a" name="Default Changelist" comment="" />
+      <created>1582084254081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582084254081</updated>
+      <workItem from="1582084255986" duration="12228000" />
+      <workItem from="1589277046316" duration="338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="338000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582084506595">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582084506595" />
+    <state width="1851" height="481" key="DebuggerActiveHint" timestamp="1582106625561">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1851" height="481" key="DebuggerActiveHint/67.27.1853.1053@67.27.1853.1053" timestamp="1582106625561" />
+    <state width="1807" height="346" key="GridCell.Tab.0.bottom" timestamp="1582114986961">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="346" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582114986961" />
+    <state width="1807" height="346" key="GridCell.Tab.0.center" timestamp="1582114986956">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="346" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582114986956" />
+    <state width="1807" height="346" key="GridCell.Tab.0.left" timestamp="1582114986955">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="346" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582114986955" />
+    <state width="1807" height="346" key="GridCell.Tab.0.right" timestamp="1582114986960">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="346" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582114986960" />
+    <state width="1807" height="346" key="GridCell.Tab.1.bottom" timestamp="1582114986963">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="346" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582114986963" />
+    <state width="1807" height="346" key="GridCell.Tab.1.center" timestamp="1582114986962">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="346" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582114986962" />
+    <state width="1807" height="346" key="GridCell.Tab.1.left" timestamp="1582114986961">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="346" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582114986961" />
+    <state width="1807" height="346" key="GridCell.Tab.1.right" timestamp="1582114986963">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="346" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582114986963" />
+    <state x="641" y="119" width="704" height="867" key="find.popup" timestamp="1582106996616">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="641" y="119" width="704" height="867" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1582106996616" />
+    <state x="718" y="465" width="540" height="175" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1582103635114">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="718" y="465" width="540" height="175" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582103635114" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file:///usr/local/lib/python3.6/dist-packages/djangosaml2/backends.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Python.DjangoServer">
+        <watch expression="_get_backends(return_tuples=True)" language="Python" />
+        <watch expression="django_user_main_attribute" language="Python" />
+        <watch expression="attributes" language="Python" />
+        <watch expression="attribute_mapping" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/metadata/metadata.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="58" lean-forward="true" selection-start-column="58" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
